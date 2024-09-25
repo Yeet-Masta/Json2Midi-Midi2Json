@@ -1,0 +1,30 @@
+Dynamic Tempo Changes:
+Implement a system for dynamic tempo changes throughout the track. This could be done by adding a "tempoMap" feature that allows specifying tempo changes at specific delta times or measures.
+Articulation Patterns:
+Create a system for defining and applying articulation patterns (e.g., staccato, legato) that can be easily applied to note sequences.
+Velocity Curves:
+Implement velocity curves that can be applied to a series of notes, allowing for more natural-sounding dynamics in the MIDI output.
+Chord Progressions:
+Add a feature to define chord progressions that can be automatically expanded into individual notes or arpeggios.
+Randomization:
+Introduce controlled randomization for various MIDI parameters (e.g., slight variations in velocity or timing) to add a more human feel to the output.
+Phrase Repetition with Variation:
+Implement a system for repeating musical phrases with slight variations each time, such as changing the last few notes or altering the rhythm.
+Scale-based Note Generation:
+Add a feature to generate notes based on specified scales, allowing for easy creation of melodies that fit within a particular key.
+Polyrhythm Support:
+Implement support for polyrhythms, allowing different tracks to have different time signatures or rhythmic structures that align at larger intervals.
+MIDI Effects:
+Add support for MIDI effects like arpeggiators, note echoes, or chord splitters that can be applied to note sequences.
+Adaptive Harmonization:
+Create a system that can automatically generate harmony parts based on a given melody and chord progression.
+Groove Templates:
+Implement groove templates that can be applied to tracks, slightly adjusting the timing and velocity of notes to create different feels (e.g., swing, shuffle).
+Conditional Track Muting:
+Add a feature to conditionally mute or unmute entire tracks based on specified conditions, allowing for more dynamic arrangements.
+Parameter Automation:
+Implement a more robust system for automating MIDI controller changes over time, possibly using mathematical functions or predefined curves.
+Pattern Transformations:
+Add functions to transform patterns (e.g., invert, retrograde, transpose) that can be applied dynamically during pattern playback.
+Event Probability:
+Introduce a probability system for events, allowing certain notes or controls to have a chance of not being played or altered in some way.
